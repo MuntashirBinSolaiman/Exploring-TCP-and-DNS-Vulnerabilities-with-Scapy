@@ -1,4 +1,4 @@
-# FIT3031 Network Security - TCP and DNS Attacks
+# Exploring-TCP-and-DNS-Vulnerabilities-with-Scapy
 
 ## What
 In this project, I explored **TCP and DNS attacks**, focusing on their mechanisms and how to exploit vulnerabilities in network systems. The tasks involved launching various attacks using **Scapy** within a virtualized environment. These attacks were performed within containers (server, client, and attacker) to simulate real-world attack scenarios.
